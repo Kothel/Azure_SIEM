@@ -49,14 +49,11 @@
   - copy custome log from vm
   - ![image](https://github.com/user-attachments/assets/b4d04f4a-5f1c-4b19-809b-ffa6fd0d7af0)
   - put log in log analisis
+  - ![image](https://github.com/user-attachments/assets/6d6465de-3730-491c-9fc2-ce03f8bae7ba)
   - ![image](https://github.com/user-attachments/assets/e80118b7-8695-4601-895d-6a4b72e06d03)
 
 
 
-  
-    - add an admin acount to domain
-    - ![image](https://github.com/user-attachments/assets/2a48cc45-b551-4c97-88aa-b927cfef39c5)
- 
 
 
 
